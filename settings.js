@@ -12,7 +12,7 @@ global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '2349152597171,2349037278118'  //creator number
 global.ownername = 'Lil Presh' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.botname = '🕷Venom-PRESH🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -23,7 +23,7 @@ global.themeemoji = '🪀'
 global.wm = "Lil Presh Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://whatsapp.com/channel/0029Vac8SYVK5cDMoFS7ZL10'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
